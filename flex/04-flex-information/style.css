@@ -22,10 +22,10 @@ img {
 }
 
 .img-with-text {
-  /* display: flex; */
-  /* flex-direction: column;
+  display: flex;
+  flex-direction: column;
   align-items: center;
-  text-align: center; */
+  text-align: center;
   max-width: 200px;
   
 }
